@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: FEM_srihari.aux
+The style file: elsarticle-num.bst
+Database file #1: FEM_srihari.bib
+You've used 3 entries,
+            2937 wiz_defined-function locations,
+            683 strings with 5418 characters,
+and the built_in function-call counts, 687 in all, are:
+= -- 43
+> -- 21
+< -- 0
++ -- 9
+- -- 6
+* -- 27
+:= -- 100
+add.period$ -- 3
+call.type$ -- 3
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 23
+empty$ -- 103
+format.name$ -- 8
+if$ -- 188
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 6
+newline$ -- 17
+num.names$ -- 3
+pop$ -- 36
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 49
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 3
+width$ -- 4
+write$ -- 28

@@ -1,0 +1,13 @@
+<?xml version="1.0"?><msgwrapper><Started><phase type="symconst">BATCHPRE_PHASE</phase><jobName type="string">Job-1</jobName><clientHost type="string">srihari-Inspiron-7520</clientHost><handle type="integer">0</handle></Started>
+<Odb_File><file type="string">/e-drive/acads/sem_7/multiscale_modelling/FEM_MultiscaleModeling/abaqus/Job-1.odb</file><phase type="symconst">BATCHPRE_PHASE</phase><jobName type="string">Job-1</jobName></Odb_File>
+<Completed><message type="string">Analysis phase complete</message><phase type="symconst">BATCHPRE_PHASE</phase><jobName type="string">Job-1</jobName></Completed>
+<Started><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Job-1</jobName><clientHost type="string">srihari-Inspiron-7520</clientHost><handle type="integer">0</handle></Started>
+<Step><stepId type="integer">1</stepId><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Job-1</jobName></Step>
+<Odb_Frame><step type="integer">0</step><frame type="integer">0</frame><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Job-1</jobName></Odb_Frame>
+<Status><step type="integer">1</step><increment type="integer">0</increment><attempts type="integer">0</attempts><severe type="integer">0</severe><equilibrium type="integer">0</equilibrium><iterations type="integer">0</iterations><totalTime type="float">0</totalTime><stepTime type="float">0</stepTime><timeIncrement type="float">1</timeIncrement><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Job-1</jobName></Status>
+<MEMORY_ESTIMATE><memory type="float">23.6445093154907</memory><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Job-1</jobName></MEMORY_ESTIMATE>
+<Odb_Frame><step type="integer">0</step><frame type="integer">1</frame><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Job-1</jobName></Odb_Frame>
+<Status><step type="integer">1</step><increment type="integer">1</increment><attempts type="integer">1</attempts><severe type="integer">0</severe><equilibrium type="integer">1</equilibrium><iterations type="integer">1</iterations><totalTime type="float">1</totalTime><stepTime type="float">1</stepTime><timeIncrement type="float">1</timeIncrement><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Job-1</jobName></Status>
+<End_Step><stepId type="integer">1</stepId><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Job-1</jobName></End_Step>
+<Completed><message type="string">Analysis phase complete</message><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Job-1</jobName></Completed>
+<JOB_COMPLETED><jobName type="string">Job-1</jobName><time type="string">Fri Nov 27 22:07:29 2015</time></JOB_COMPLETED></msgwrapper>

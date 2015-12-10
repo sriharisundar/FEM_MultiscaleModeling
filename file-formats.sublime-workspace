@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"geom",
+				"geomoutput"
+			],
+			[
+				"n",
+				"n_micro"
+			],
+			[
+				"c",
+				"confoutput"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"con",
+				"confoutput"
+			],
+			[
+				"geo",
+				"geomoutput"
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"latt",
+				"lattice_pts"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"num",
+				"num_lattice"
+			],
+			[
+				"as",
+				"asarray"
+			],
+			[
+				"r",
+				"range"
+			],
+			[
+				"in",
+				"inputfile"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"mises",
+				"misesstress_increment"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ssc",
+		"selected_items":
+		[
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/e-drive/competitions/HiPC/hipc/gpu_solution/cu/cube.cu",
+		"/media/hari/SR!HARI-HD/backup/dc",
+		"/media/hari/SR!HARI-HD/backup/input.py",
+		"/media/hari/SR!HARI-HD/backup/LICENSE.txt",
+		"/media/hari/SR!HARI-HD/backup/minicom.log",
+		"/media/hari/SR!HARI-HD/backup/mom 21-3-2013",
+		"/media/hari/SR!HARI-HD/backup/Untitled Document 1",
+		"/media/hari/SR!HARI-HD/backup/wassup",
+		"/e-drive/abaqusscript/avinash/extractdata.py",
+		"/e-drive/abaqusscript/avinash/dataprocess_umat_thermal.f90",
+		"/e-drive/conference/thermec/abstract.txt",
+		"/e-drive/conference/abstract.txt",
+		"/home/hari/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/hari/Downloads/1 - 9 - 01.08ct.1. Intro to C++ (running your code, basic structure, number types, vectors) (21-09).txt",
+		"/home/hari/petscvimp",
+		"/home/hari/petscinstallcommand",
+		"/e-drive/cuda/workshop/day-1/cuda-device-query.cu",
+		"/home/hari/Downloads/1 - 1 - 01.01. Introduction. Linear elliptic partial differential equations - I (14-46).srt",
+		"/home/hari/job.cmd",
+		"/home/hari/Micro.inp",
+		"/home/hari/abq.cmd",
+		"/home/hari/lol",
+		"/e-drive/abaqusscript/mises_principal.py",
+		"/e-drive/abaqusscript/avinash/two_phase_periodic_ssd.inp",
+		"/e-drive/R_Intern/inGear/finalposter/ingear_2015.tex",
+		"/e-drive/abaqusscript/mises_principal_all.py",
+		"/e-drive/R_Intern/inGear/spheroconical/001_slipdata/indentation_001.inp",
+		"/e-drive/R_Intern/inGear/spheroconical/001_slipdata/slipsystems.py",
+		"/e-drive/R_Intern/inGear/spheroconical/111_slipdata/material.config",
+		"/e-drive/R_Intern/inGear/spheroconical/111_slipdata/indentation_111.msg",
+		"/e-drive/R_Intern/inGear/spheroconical/111_slipdata/indentation_111.dat",
+		"/e-drive/R_Intern/inGear/spheroconical/111_slipdata/indentation_111.sta",
+		"/e-drive/R_Intern/inGear/spheroconical/111_slipdata/indentation_111.inp",
+		"/e-drive/R_Intern/inGear/finalposter/ingear_2015.log",
+		"/home/hari/lammps-10Aug15/examples/DIFFUSE/log.msd.2d.1Feb14",
+		"/home/hari/lammps-10Aug15/examples/shear/in.shear",
+		"/home/hari/lammps-10Aug15/examples/rigid/in.rigid",
+		"/home/hari/lammps-10Aug15/examples/DIFFUSE/in.msd.2d",
+		"/home/hari/lammps-10Aug15/examples/DIFFUSE/README",
+		"/e-drive/acads/sem_7/multiscale_modelling/Zr_tests/cohE_latpram_meam/cohE_600.log",
+		"/e-drive/acads/sem_7/multiscale_modelling/melting/melt.in",
+		"/home/hari/DAMASK/examples/SpectralMethod/20grains64x64x64.geom",
+		"/var/tmp/kdecache-hari/krun/26171_0_readtable.py",
+		"/var/tmp/kdecache-hari/krun/26386_0_crystal.py",
+		"/e-drive/acads/sem_7/multiscale_modelling/Assignments/Assignment_1/latticegen.py",
+		"/e-drive/acads/sem_7/multiscale_modelling/EnergyAtom.in",
+		"/e-drive/acads/sem_7/multiscale_modelling/Assignments/Assignment_1/Fe_C_3%_lattice.xyz",
+		"/e-drive/acads/sem_7/multiscale_modelling/Zr_tests/Cpress_meam/log.lammps",
+		"/e-drive/acads/sem_7/multiscale_modelling/Zr_tests/Cpress_meam/compress_meam.in",
+		"/e-drive/acads/sem_7/multiscale_modelling/Zr_tests/Cpress_meam/library.meam",
+		"/e-drive/acads/sem_7/multiscale_modelling/Zr_tests/cohE_latpram_meam/cohE.in",
+		"/e-drive/acads/sem_7/multiscale_modelling/Zr_tests/cohE_latpram_meam/cohE_temp.in",
+		"/home/hari/DAMASK/examples/SpectralMethod/material.config",
+		"/var/tmp/kdecache-hari/krun/31164_0_material.config",
+		"/home/hari/micro/geomgenerate.py",
+		"/var/tmp/kdecache-hari/krun/18852_0_material.config",
+		"/home/hari/micro/material.config",
+		"/var/tmp/kdecache-hari/krun/8946_0_diffuse_a_b.in",
+		"/home/hari/lammps-10Aug15/examples/shear/Ni_u3.eam",
+		"/e-drive/acads/sem_7/multiscale_modelling/Assignments/Assignment_1/Cu_fcc_nonrotated_lattice.xyz",
+		"/e-drive/R_Intern/inGear/spheroconical/material.config",
+		"/e-drive/acads/sem_7/multiscale_modelling/Zr_tests/cohE_latpram_meam/log.lammps",
+		"/e-drive/acads/sem_7/multiscale_modelling/Zr_tests/cohE_latpram_meam/cohE_1200.log",
+		"/e-drive/acads/sem_7/multiscale_modelling/melting/Cu01.eam.alloy",
+		"/e-drive/acads/sem_7/multiscale_modelling/Zr_tests/cohE_latpram_meam/cohE_300k.in",
+		"/e-drive/lammps/examples/meam/log.lammps",
+		"/e-drive/lammps/examples/meam/in.meam.shear",
+		"/home/hari/lammps-15May15/potentials/library.meam",
+		"/home/hari/lammps-15May15/examples/MC/in.mc",
+		"/home/hari/lammps-15May15/examples/DIFFUSE/in.msd.2d",
+		"/home/hari/lammps-15May15/examples/melt/in.melt",
+		"/home/hari/lammps-15May15/examples/DIFFUSE/log.lammps",
+		"/home/hari/lammps-15May15/examples/DIFFUSE/README",
+		"/home/hari/lammps-15May15/src/MEAM/README",
+		"/home/hari/lammps-15May15/examples/meam/library.meam",
+		"/home/hari/lammps-15May15/examples/meam/in.meam.shear",
+		"/home/hari/lammps-15May15/potentials/Cu.meam",
+		"/home/hari/lammps-15May15/potentials/AlO.eam.alloy",
+		"/home/hari/lammps-15May15/potentials/AlFe_mm.eam.fs",
+		"/e-drive/acads/sem_7/multiscale_modelling/dump.melt",
+		"/e-drive/acads/sem_7/multiscale_modelling/melting/EnergyAtom.in",
+		"/home/hari/lammps-15May15/lib/meam/README",
+		"/e-drive/acads/sem_7/multiscale_modelling/Assignment_1/data_rotated.txt",
+		"/e-drive/acads/sem_7/multiscale_modelling/Assignment_1/element.py",
+		"/e-drive/acads/sem_7/multiscale_modelling/Assignment_1/data_nonrotated.txt",
+		"/e-drive/acads/sem_7/multiscale_modelling/Assignment_1/latticegen.py",
+		"/e-drive/acads/sem_7/multiscale_modelling/Assignment_1/data_interstitial.txt",
+		"/e-drive/acads/sem_7/multiscale_modelling/Assignment_1/README_1,2,3",
+		"/e-drive/acads/sem_7/multiscale_modelling/Assignment_1/rdf.py",
+		"/e-drive/acads/sem_7/multiscale_modelling/Assignment_1/README_4",
+		"/e-drive/acads/sem_7/multiscale_modelling/Assignment_1/NiAl.txt",
+		"/e-drive/acads/sem_7/multiscale_modelling/Assignment_1/Ni3Al.txt",
+		"/e-drive/acads/sem_7/multiscale_modelling/Assignment_1/multipleelement.txt",
+		"/e-drive/acads/sem_7/multiscale_modelling/Assignment_1/README",
+		"/e-drive/acads/sem_7/multiscale_modelling/Assignment_1/data1.txt",
+		"/e-drive/acads/sem_7/multiscale_modelling/Ni3Al_lattice.xyz",
+		"/e-drive/acads/sem_7/multiscale_modelling/NiAl_lattice.xyz",
+		"/e-drive/acads/sem_7/multiscale_modelling/lattice_simple_cubic.xyz",
+		"/e-drive/acads/sem_7/pml/sweat",
+		"/e-drive/site material/sriharisundar.github.io/cv.html",
+		"/home/hari/Desktop/hankquinlan.github.io-master/index.html",
+		"/e-drive/acads/sem_7/multiscale_modelling/latticegen.py",
+		"/e-drive/acads/sem_7/multiscale_modelling/cubic.xyz",
+		"/e-drive/R_Intern/inGear/spheroconical/slipsystems.py",
+		"/e-drive/acads/sem_7/multiscale_modelling/lattice_str.xyz",
+		"/e-drive/acads/sem_7/multiscale_modelling/latticegen_bcc.py",
+		"/e-drive/acads/sem_7/multiscale_modelling/data.txt",
+		"/e-drive/acads/sem_7/multiscale_modelling/lattice_fcc.xyz",
+		"/e-drive/acads/sem_7/multiscale_modelling/latticegen_fcc.py",
+		"/e-drive/acads/sem_7/multiscale_modelling/lattice_bcc\n.xyz",
+		"/e-drive/acads/sem_7/multiscale_modelling/input.txt",
+		"/e-drive/acads/sem_7/multiscale_modelling/latticegen_axes.py",
+		"/e-drive/acads/sem_7/multiscale_modelling/lattice_Str_new.xyz",
+		"/e-drive/lammps/MC_gen/Mc_gen.c",
+		"/home/hari/step-3/solution.gpl",
+		"/home/hari/Downloads/Manikanth Meta Iitm",
+		"/e-drive/R_Intern/inGear/presentation/main.tex",
+		"/e-drive/R_Intern/inGear/presentation/main.bib",
+		"/e-drive/SGP/UEL/uel_doc_Jul2015/uel_doc_Jul2015.tex",
+		"/e-drive/R_Intern/inGear/annotated/annotated_bibiliography.tex",
+		"/e-drive/R_Intern/inGear/poster/ingear_2015.bib",
+		"/home/hari/bluetooth",
+		"/home/hari/apps",
+		"/e-drive/R_Intern/inGear/tin/tin_plane_normal",
+		"/e-drive/R_Intern/inGear/bctSn_CPFEindentation.rtf",
+		"/e-drive/SGP/UEL/uel_codes/ueltests/aft_4_3/xandy/multistep/uel/xandy.121",
+		"/e-drive/SGP/UEL/uel_codes/ueltests/aft_4_3/xandy/multistep/uel/xandy.120",
+		"/e-drive/SGP/UEL/uel_codes/ueltests/aft_4_3/xandy/multistep/uel/uel_xandy.inp"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"150",
+			"line",
+			"C",
+			"Fe",
+			"600",
+			"10",
+			"c_peratom",
+			"csym",
+			"hcp",
+			"a[",
+			"lattice_pts",
+			"crys_struct",
+			"dirn",
+			"3.4f",
+			"3.3",
+			"e[1]",
+			"[1]",
+			"(1)",
+			"i*a+j*b+k*c",
+			"outstream",
+			"f.write",
+			"f",
+			"bib",
+			"\n\\",
+			"tikzfigure",
+			"minipage",
+			"tikzfigure",
+			"minipage",
+			"\\textbf{\\textit",
+			"textb",
+			"tikzfigure",
+			"S2",
+			"indentation",
+			"columns",
+			"load_yaml",
+			"props",
+			"_PickedSet21",
+			"sides",
+			"instance",
+			", internal",
+			", instance=sample-1",
+			"*system",
+			"tiltegraphictotitledistance",
+			"bib",
+			"unst",
+			"}\n",
+			"bib",
+			"\\cite",
+			"{}.",
+			"\\cite",
+			"find_under",
+			"ctrl+d",
+			"selection",
+			"ctrl+b",
+			"40620",
+			"1",
+			"Part-1-1_",
+			"ele*8+i",
+			"j",
+			"_set",
+			"ele*8+i",
+			"_set",
+			"')",
+			"gedit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"2",
+			"1",
+			"0",
+			"sublime-text"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "file-formats.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"readya",
+				"philipe/third_party_code/YAMLMatlab_0.4.3/ReadYamlRaw.m"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

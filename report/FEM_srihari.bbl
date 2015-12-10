@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{smith2005programming}
+I.~M. Smith, D.~V. Griffiths, Programming the finite element method, John Wiley
+  \& Sons, 2005.
+
+\bibitem{entwistle1999basic}
+K.~Entwistle, Basic principles of the finite element method, IOM
+  Communications, 1999.
+
+\bibitem{abaqus}
+Hibbit, Karlsson, Sorensen, {ABAQUS/Standard Analysis User's Manual}, Hibbit,
+  Karlsson, Sorensen Inc., USA, 2007.
+
+\end{thebibliography}
