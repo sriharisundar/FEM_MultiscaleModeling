@@ -12,7 +12,8 @@ PROGRAM platehole2d
 	character(100):: filename
 
 	
-	call getarg(1,filename)
+	!call getarg(1,filename)
+	filename='platehole_3.in'
 	CALL readinput(filename,nnode,nele,nodes,elements,nfixed,nforce,ndisp,nodes_fixed,nodes_force,nodes_disp)
 	
 
